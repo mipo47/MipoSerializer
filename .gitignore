@@ -1,0 +1,7 @@
+bin/
+obj/
+packages/
+protobuf-net/
+*.vsp
+*.vspx
+*.psess
